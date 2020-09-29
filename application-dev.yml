@@ -1,0 +1,4 @@
+name: dev
+server:
+  port: 9527
+

@@ -1,0 +1,5 @@
+itcodeschool:
+  name: prod
+server:
+  port: 9529
+

@@ -1,0 +1,5 @@
+itcodeschool:
+  name: test
+server:
+  port: 9528
+
